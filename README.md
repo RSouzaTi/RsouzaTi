@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-
+<img src="/assets/img/Gif.gif">
 
 # 💫 About Me:
 
