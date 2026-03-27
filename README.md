@@ -27,9 +27,8 @@ Acredito que a tecnologia deve ser sustentável e comunicável; por isso, prezo 
 
 ### 📊 Minhas Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RsouzaTi&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RsouzaTi&layout=compact&theme=dark)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RsouzaTi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RsouzaTi&layout=compact&theme=dark)
 
 ----
 ### 🔥 Sequência de Contribuições (Streak)
