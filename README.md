@@ -27,14 +27,14 @@ Acredito que a tecnologia deve ser sustentável e comunicável; por isso, prezo 
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RsouzaTi&show_icons=true&theme=dark" alt="Estatísticas de RsouzaTi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsouzaTi&layout=compact&theme=dark" alt="Linguagens de RsouzaTi" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=RsouzaTi&show_icons=true&theme=dark)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RsouzaTi&theme=dark" alt="Streak de RsouzaTi" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RsouzaTi&layout=compact&theme=dark)
+
+----
+### 🔥 Sequência de Contribuições (Streak)
+
+![Streak de RsouzaTi](https://github-readme-streak-stats.herokuapp.com/?user=RsouzaTi&theme=dark)
 
 ---
 
