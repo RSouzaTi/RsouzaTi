@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Ricardo Souza</h1>
 
-<h3 align="center">Desenvolvedor de Software | Backend Java & Node.js | Full Stack & Mobile</h3>
+<h3 align="center">Desenvolvedor de Software | Backend Java & Spring Boot | Node.js | Full Stack & Mobile</h3>
 
 <p align="center">
   <a href="https://github.com/RSouzaTi">
@@ -18,7 +18,7 @@
 
 Sou profissional de tecnologia com experiência em **desenvolvimento de software, infraestrutura e suporte**, direcionando minha carreira para o desenvolvimento de sistemas.
 
-Meu principal foco técnico está no **Backend**, especialmente com **Java, Spring Boot, Node.js e APIs REST**, mantendo também experiência em Frontend, Mobile, bancos de dados e ambientes Cloud.
+Meu foco principal está em **Backend Java e Spring Boot**, com experiência e projetos também em **Node.js, APIs REST, bancos de dados, aplicações web e mobile**.
 
 Além de projetos de estudo, possuo experiência com **software entregue para uso real**. O **IBKCheck** é um aplicativo comercial desenvolvido para um cliente, vendido e utilizado diariamente em operação.
 
@@ -165,7 +165,7 @@ Projeto frontend desenvolvido com React.
 ## 📈 Atualmente estudando
 
 ```text
-Java
+Java & Spring
  ├── POO
  ├── Collections
  ├── Exceptions
@@ -203,9 +203,9 @@ Cloud & DevOps
 
 ## 🎯 Objetivo profissional
 
-Atuar cada vez mais no desenvolvimento de software, contribuindo na construção de sistemas robustos e soluções que gerem valor para o negócio.
+Atuar como **Desenvolvedor de Software**, com foco em **Backend Java, Spring Boot e APIs**, contribuindo também em soluções Full Stack e Mobile quando necessário.
 
-**Backend • Java • Spring Boot • Node.js • APIs • Full Stack • Mobile • Cloud • Desenvolvimento de Software**
+**Backend Java • Spring Boot • Node.js • APIs REST • Full Stack • Mobile • Cloud**
 
 ---
 
