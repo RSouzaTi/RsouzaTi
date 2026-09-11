@@ -1,4 +1,5 @@
-<!-- HEADER -->
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="Gif.gif"><!-- HEADER -->
 
 <h1 align="center">👋 Olá, eu sou Ricardo Souza</h1>
 
