@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Ricardo Souza</h1>
 
-<h3 align="center">Desenvolvedor de Software | Backend Java & Node.js | Mobile</h3>
+<h3 align="center">Desenvolvedor de Software | Backend Java & Node.js | Full Stack & Mobile</h3>
 
 <p align="center">
   <a href="https://github.com/RSouzaTi">
@@ -16,11 +16,13 @@
 
 ## 🚀 Sobre mim
 
-Sou profissional de tecnologia com experiência em desenvolvimento de software, infraestrutura e suporte, direcionando minha carreira para **desenvolvimento de sistemas**.
+Sou profissional de tecnologia com experiência em **desenvolvimento de software, infraestrutura e suporte**, direcionando minha carreira para o desenvolvimento de sistemas.
 
 Meu principal foco técnico está no **Backend**, especialmente com **Java, Spring Boot, Node.js e APIs REST**, mantendo também experiência em Frontend, Mobile, bancos de dados e ambientes Cloud.
 
-Busco transformar necessidades de negócio em soluções de software **organizadas, escaláveis, performáticas e fáceis de manter**.
+Além de projetos de estudo, possuo experiência com **software entregue para uso real**. O **IBKCheck** é um aplicativo comercial desenvolvido para um cliente, vendido e utilizado diariamente em operação.
+
+Busco transformar necessidades de negócio em soluções de software **organizadas, eficientes, fáceis de manter e que gerem valor real**.
 
 ---
 
@@ -43,8 +45,10 @@ Busco transformar necessidades de negócio em soluções de software **organizad
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
 </p>
 
@@ -54,6 +58,7 @@ Busco transformar necessidades de negócio em soluções de software **organizad
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 ### ☁️ Cloud, DevOps & Ferramentas
@@ -77,7 +82,27 @@ Busco transformar necessidades de negócio em soluções de software **organizad
 
 ---
 
-## 🚀 Projetos em destaque
+## ⭐ Projetos profissionais em destaque
+
+### 📱 [IBKCheck](https://github.com/RSouzaTi/IBKCheck)
+**Aplicativo comercial em produção.** Desenvolvido para digitalização de checklists e inspeções operacionais, com registro de responsáveis, turnos, horários, verificações, não conformidades, leituras e geração de relatórios em PDF.
+
+O projeto foi **vendido e é utilizado diariamente em ambiente real**, representando experiência prática de desenvolvimento e entrega de software para cliente.
+
+**Tecnologias:** `Kotlin` `Android` `Jetpack Compose` `Room` `ViewModel` `Flow` `PDF`
+
+### 📦 [Sistema de Almoxarifado](https://github.com/RSouzaTi/almoxarifado) · [Frontend Angular](https://github.com/RSouzaTi/almoxarifado-web)
+Sistema **Full Stack** recente desenvolvido em duas aplicações integradas: uma API/backend em Spring Boot e uma aplicação web em Angular.
+
+O backend trabalha com recursos de almoxarifado, incluindo itens, categorias, setores, colaboradores, movimentações e controle relacionado a EPI. O frontend fornece a interface web para interação com o sistema.
+
+**Backend:** `Java 21` `Spring Boot` `Spring Data JPA` `Validation` `OpenAPI/Swagger` `H2` `PostgreSQL`
+
+**Frontend:** `Angular 22` `TypeScript` `RxJS` `Angular SSR` `Express`
+
+---
+
+## 🚀 Outros projetos em destaque
 
 ### ⛽ [FuelWise](https://github.com/RSouzaTi/FuelWise)
 Aplicação mobile relacionada ao controle de abastecimento e consumo.
@@ -129,9 +154,9 @@ Projeto frontend desenvolvido com React.
 - 🔹 JPA / Hibernate
 - 🔹 Modelagem e persistência de dados
 - 🔹 Testes automatizados
-- 🔹 Microsserviços
 - 🔹 Integração Frontend ↔ Backend
 - 🔹 Desenvolvimento Mobile
+- 🔹 Jetpack Compose
 - 🔹 Git e GitHub
 - 🔹 Containers e Cloud
 
@@ -156,9 +181,15 @@ Backend
  ├── Arquitetura
  └── Integração de APIs
 
+Frontend
+ ├── Angular
+ ├── React
+ └── TypeScript
+
 Mobile
  ├── Kotlin
  ├── Android
+ ├── Jetpack Compose
  └── React Native
 
 Cloud & DevOps
@@ -174,7 +205,7 @@ Cloud & DevOps
 
 Atuar cada vez mais no desenvolvimento de software, contribuindo na construção de sistemas robustos e soluções que gerem valor para o negócio.
 
-**Backend • Java • Spring Boot • Node.js • APIs • Microsserviços • Cloud • Desenvolvimento de Software**
+**Backend • Java • Spring Boot • Node.js • APIs • Full Stack • Mobile • Cloud • Desenvolvimento de Software**
 
 ---
 
@@ -228,4 +259,4 @@ Busco melhorar continuamente a qualidade das soluções através de boas prátic
 
 ---
 
-<p align="center"><strong>💻 Desenvolvendo soluções. 🚀 Aprendendo continuamente. 🌎 Evoluindo todos os dias.</strong></p>
+<p align="center"><strong>💻 Desenvolvendo soluções reais. 🚀 Aprendendo continuamente. 🌎 Evoluindo todos os dias.</strong></p>
