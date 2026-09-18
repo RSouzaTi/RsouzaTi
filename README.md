@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Ricardo Souza</h1>
 
-<h3 align="center">Desenvolvedor de Software | Backend Java & Spring Boot | Node.js | Full Stack & Mobile</h3>
+<h3 align="center">Desenvolvedor de Software | Backend Java & Spring Boot | Node.js | APIs REST</h3>
 
 <p align="center">
   <a href="https://github.com/RSouzaTi">
