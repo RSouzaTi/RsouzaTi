@@ -1,3 +1,5 @@
+<img src="Gif.gif">
+
 <h1 align="center">👋 Olá, eu sou Ricardo Souza</h1>
 
 <h3 align="center">Desenvolvedor de Software | Backend Java & Spring Boot | Node.js | APIs REST</h3>
